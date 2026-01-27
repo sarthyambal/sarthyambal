@@ -59,6 +59,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
 </a>
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
+</a>
+
+</div>
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -66,11 +71,7 @@
 </a>
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
-</a>
 
-</div>
 ---
 
 
