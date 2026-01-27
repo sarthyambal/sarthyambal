@@ -53,14 +53,6 @@
 
 ---
 
-### 📊 **GitHub Activity**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthyambal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Sarth's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthyambal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
-</p>
-
----
 
 # 📊 GitHub Stats
 
