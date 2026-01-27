@@ -61,14 +61,18 @@
 </a>
 
 
-
-
-
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react" />
 </a>
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
+</a>
+
+</div>
 ---
+
 
 ### 📫 **Let's Connect**
 
