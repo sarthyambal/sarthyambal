@@ -40,7 +40,7 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
     </td>
     <td align="left">
       <b>Building a Portfolio</b><br/>
-      <i>Working on:</i> Expense Trackers & Business Dashboards.
+      <i>Working on:</i> Snake, Water, Gun.
     </td>
   </tr>
 </table>
