@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Sarth Yambal! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Video+Editor;Data+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer;Video+Editor;Data+Analylist)](https://git.io/typing-svg)
 
 ### 📊 Aspiring Data Analyst
 
