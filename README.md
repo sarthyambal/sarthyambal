@@ -16,7 +16,7 @@
 ---
 ## 🧑‍💻About Me
 <div align="center">
-I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, passionate about competitive programming and building efficient solutions. 
+I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, passionate about competitive programming and building efficient solutions. And Data Analysier to visualize the data of business.
     
  **Tech Satck:** C | JAVA | HTML | CSS | JAVASCRIPT |
 </div>
