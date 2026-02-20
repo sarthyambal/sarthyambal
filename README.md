@@ -41,7 +41,7 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
     </td>
     <td align="left">
       <b>Building a Portfolio</b><br/>
-      <i>Working on:</i> Snake, Water, Gun.
+      <i>Working on:</i> MY SQL
     </td>
   </tr>
 </table>
