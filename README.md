@@ -72,9 +72,9 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 
 # 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
-</a>
+</a> -->
 
 
 <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
@@ -82,11 +82,21 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 </a>
 
 </div>
+<div align="center">
 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react" />
+# 📈 Contribution Graph
+ 
+<a href="https://github.com/sarthyambal">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react&bg_color=0D1117&hide_border=false&area=true" width="100%" />
 </a>
+
+<p align="center">
+  <i>Click the graph to see my full contribution history on GitHub.</i>
+</p>
+
+</div>
+
+---
 <div align="center">
 
 
