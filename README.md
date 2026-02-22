@@ -32,7 +32,7 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
     </td>
     <td align="left">
       <b>The Ultimate Job-Ready Data Analytics Course</b><br/>
-      <i>Currently mastering:</i> Advanced Excel Functions & Python Automation.
+      <i>Currently mastering:</i> MY SQL.
     </td>
   </tr>
   <tr>
