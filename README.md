@@ -77,10 +77,25 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 </a> -->
 
 
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
+<div align="center">
+
+
+<a href="https://github.com/sarthyambal">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" alt="Sarth's GitHub Streak" />
 </a>
 
+<p align="center">
+  <b>"Consistency is the key to mastering Data Science and Web Dev."</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Daily_Code-Active-brightgreen?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Learning_Goal-Data_Analytics-blue?style=flat-square" />
+</p>
+
+</div>
+
+---
 </div>
 <div align="center">
 
