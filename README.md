@@ -101,8 +101,10 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 
 # 📈 Contribution Graph
  
+<div align="center">
+
 <a href="https://github.com/sarthyambal">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react&bg_color=0D1117&hide_border=false&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react&bg_color=0D1117&hide_border=false&area=true&count_private=true" width="100%" />
 </a>
 
 <p align="center">
