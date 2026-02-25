@@ -72,9 +72,9 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 
 # 📊 GitHub Stats
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
-</a> -->
+</a> 
 
 
 <div align="center">
@@ -85,7 +85,7 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 </a>
 
 <p align="center">
-  <b>"Consistency is the key to mastering Data Science and Web Dev."</b>
+  <b>"Consistency is the key to mastering Data Analyst and Web Dev."</b>
 </p>
 
 <p align="center">
