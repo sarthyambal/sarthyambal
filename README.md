@@ -79,10 +79,13 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 
 <div align="center">
 
+<div align="center">
 
 <a href="https://github.com/sarthyambal">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" alt="Sarth's GitHub Streak" />
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false&cache_seconds=0" />
 </a>
+
+</div>
 
 <p align="center">
   <b>"Consistency is the key to mastering Data Analyst and Web Dev."</b>
