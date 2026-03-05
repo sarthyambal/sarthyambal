@@ -73,15 +73,16 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 # 📊 GitHub Stats
 <div align="center">
 
+
+
 <a href="https://github.com/sarthyambal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Sarth's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" alt="Sarth Yambal's GitHub Stats" />
 </a>
 
-</div>
 
-<div align="center">
 
-<div align="center">
+
+
 
 <a href="https://github.com/sarthyambal">
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false&cache_seconds=0" />
