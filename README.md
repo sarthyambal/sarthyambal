@@ -71,13 +71,13 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 
 
 # 📊 GitHub Stats
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/sarthyambal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" alt="Sarth Yambal's GitHub Stats" />
 </a>
 
-</div>
+</div> -->
 
 
 
