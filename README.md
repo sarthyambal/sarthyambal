@@ -109,7 +109,7 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
 
 # 📈 My Activity Dashboard
  
-<a href="https://github.com/sarthyambal">
+<!-- <a href="https://github.com/sarthyambal">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react&bg_color=0D1117&hide_border=false&area=true&count_private=true&custom_title=Contribution%20Metrics" width="100%" />
 </a>
 
@@ -117,7 +117,7 @@ I'm a **BTech IT student** at **Walchand Institute of Technology, Solapur**, pas
   <i>Displaying combined insights from Public and Private development.</i>
 </p>
 
-</div>
+</div> -->
 
 ---
 
